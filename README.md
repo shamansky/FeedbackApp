@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Feedback UI Application
 
 Generated following Brad Traversy Udemy course "https://udemy.com/course/react-front-to-back-2022"
 

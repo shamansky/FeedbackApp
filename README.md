@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Generated following Brad Traversy Udemy course "https://udemy.com/course/react-front-to-back-2022"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
